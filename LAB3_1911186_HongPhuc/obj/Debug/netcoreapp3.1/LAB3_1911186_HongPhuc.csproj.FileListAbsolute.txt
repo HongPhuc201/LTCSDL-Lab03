@@ -1,0 +1,15 @@
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\bin\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.exe
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\bin\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.deps.json
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\bin\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.runtimeconfig.json
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\bin\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.runtimeconfig.dev.json
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\bin\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.dll
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\bin\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.pdb
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.csprojAssemblyReference.cache
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.frmSinhVien.resources
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.csproj.GenerateResource.cache
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.AssemblyInfoInputs.cache
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.AssemblyInfo.cs
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.dll
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.pdb
+D:\Lập trình CSDL\LAB3_1911186_HongPhuc\LAB3_1911186_HongPhuc\obj\Debug\netcoreapp3.1\LAB3_1911186_HongPhuc.genruntimeconfig.cache
